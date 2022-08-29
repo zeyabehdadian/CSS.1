@@ -1,0 +1,36 @@
+.dob{
+    border: 9px  dotted red;
+    margin: 2rem 5rem 2rem 4rem;
+    padding: 2rem 5rem 2rem 4rem;
+}
+.rbs{
+
+    border-bottom: 5px solid blue;
+    border-right: 5px solid blue;
+    border-radius: 5px;
+}
+
+.font{
+    font:fanci;
+    color: rgb(255, 0, 119);
+    font-size: 50px;
+  }
+  .input-name{
+
+  }
+  .rgb{
+    color: ;
+  }
+  .rgb{
+    color: rgb(160, 150, 180);
+  }
+  .hex{
+    color: #f009b6;
+  }
+  .hsl{
+    coler:()
+  }
+  .rgba{
+    color: rgb(255, 0, 119,.5);
+    font-size: x-large;
+  }
